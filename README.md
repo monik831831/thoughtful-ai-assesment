@@ -27,5 +27,5 @@ A package is considered:
 Clone the repository and navigate into it:
 
 ```bash
-git clone https://github.com/your-username/package-sorter.git
-cd package-sorter
+git clone https://github.com/monik831831/thoughtful-ai-assesment.git
+python sort_packages.py
